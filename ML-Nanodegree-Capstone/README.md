@@ -1,6 +1,8 @@
 # Capstone Project
 ## Machine learning - Nano Degree
 
+According to The World Health Organization (WHO) close to 800 000 people die by suicide every year. Furthermore, for each suicide, there are more than 20 suicide attempts. Suicides and suicide attempts have a ripple effect that impacts on families, friends, colleagues, communities and societies. Suicides are preventable. Much can be done to prevent suicide at individual, community and national levels. So, comes my intuition to inspect the similarities between the nations in committing suicides to give some indicator on how to prevent them.
+
 This compiled dataset pulled from four other datasets linked by time and place, and was built to find signals correlated to increased suicide rates among different cohorts globally, across the socio-economic spectrum.
 References.
 
